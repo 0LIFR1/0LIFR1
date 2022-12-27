@@ -1,5 +1,3 @@
-<img src="https://github.com/0LIFR1/0LIFR1/blob/main/github_profile_header.jpeg">
-
 <img src="https://github.com/0LIFR1/0LIFR1/blob/main/github_profile_header_quote.jpg">
 
 ### Hi there 👋
